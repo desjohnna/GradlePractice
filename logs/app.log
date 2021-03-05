@@ -1,0 +1,11 @@
+[DEBUG] 2021-03-05 11:42:30.372 [main] Main - logging debug message
+[INFO ] 2021-03-05 11:42:30.380 [main] Main - logging info message
+[WARN ] 2021-03-05 11:42:30.380 [main] Main - logging warn message
+[ERROR] 2021-03-05 11:42:30.380 [main] Main - logging error message
+[FATAL] 2021-03-05 11:42:30.380 [main] Main - logging fatal message
+[TRACE] 2021-03-05 11:50:27.353 [main] Main - logging trace message
+[DEBUG] 2021-03-05 11:50:27.358 [main] Main - logging debug message
+[INFO ] 2021-03-05 11:50:27.358 [main] Main - logging info message
+[WARN ] 2021-03-05 11:50:27.358 [main] Main - logging warn message
+[ERROR] 2021-03-05 11:50:27.358 [main] Main - logging error message
+[FATAL] 2021-03-05 11:50:27.359 [main] Main - logging fatal message
